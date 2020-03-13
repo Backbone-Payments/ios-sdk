@@ -1,5 +1,6 @@
 # The Backbone SDK
 Release Note Summary:
+- Version 2.0.0: This version of the Backbone SDK supports Swift 5.
 - Version 1.0.0: The original release of the Backbone SDK.
 
 ## Overview
@@ -34,7 +35,7 @@ After running this command line request, you will see the following messages:
 *Pod installation complete! There are x dependencies from the Podfile and x total pods installed.
 Analyzing dependencies
 Downloading dependencies
-Installing BackboneSDK (1.0.0)*
+Installing BackboneSDK (2.0.0)*
 
 That’s it.  The SDK has been added to your project and you can now access the services of the SDK.  Refer to the BackboneSDK Developer's Guide for information about using the SDK.
 
