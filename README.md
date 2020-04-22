@@ -1,5 +1,6 @@
 # The Backbone SDK
 Release Note Summary:
+- Version 2.0.1: This version of the Backbone SDK supports Swift 5.  Updated to support new Build Library Distribution in iOS 13.
 - Version 2.0.0: This version of the Backbone SDK supports Swift 5.
 - Version 1.0.0: The original release of the Backbone SDK.
 

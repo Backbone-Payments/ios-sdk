@@ -3,8 +3,8 @@
 Pod::Spec.new do |s|
 
   s.name         = "BackboneSDK"
-  s.version      = "2.0.0"
-  s.summary      = "BackboneSDK for licensed customers only. Version 2.0.0 is the version that supports Swift 5."
+  s.version      = "2.0.1"
+  s.summary      = "BackboneSDK for licensed customers only. Version 2.0.1 is the version that supports Swift 5."
 
   #
 

@@ -8,5 +8,5 @@ platform :ios, '12.0'
 use_frameworks!
 
 target :'YourProjectApp' do
-	pod 'BackboneSDK'
+	pod 'BackboneSDK', '~> 2.0.1'
 end
